@@ -1,6 +1,6 @@
 ### Biki Gurung
 
-**Site Reliability Engineer** — I keep ~100 Kubernetes clusters of live, latency-sensitive traffic alive at scale, and I build a lot of things on the side.
+**Site Reliability Engineer** — I keep a large hybrid Kubernetes fleet of live, latency-sensitive traffic alive at scale, and I build a lot of things on the side.
 
 Portfolio → **[biki-portfolio.fly.dev](https://biki-portfolio.fly.dev)**  ·  New York, NY  ·  [LinkedIn](https://linkedin.com/in/biki-gurung-264a08aa)
 
